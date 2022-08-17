@@ -17,5 +17,3 @@ For this project, I took dataset from kaggle and predicted the outcomes using Co
 ##### Pooling Layer : reduce the spatial size of the input image, so that number of computations in the network are reduced
 ##### Flattening Layer : convert all the resultant 2-Dimensional arrays from pooled feature maps into a single long continuous linear vector
 ##### Fully-Connected Layer :  simply, feed forward neural networks
-
-At the end, I achieved accuracy of 100%
